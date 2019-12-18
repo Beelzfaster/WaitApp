@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232376845784",
+    "firebase_url": "https://waitapp-93a68.firebaseio.com",
+    "project_id": "waitapp-93a68",
+    "storage_bucket": "waitapp-93a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232376845784:android:0863c6744f0bfcc1499ead",
+        "android_client_info": {
+          "package_name": "com.example.waitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232376845784-4knpuf2vu8n9vq0bmc9lotrbma6gj7nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vO882KD_rm7rEsLHlqtSX1jkgjeMxD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232376845784-4knpuf2vu8n9vq0bmc9lotrbma6gj7nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
