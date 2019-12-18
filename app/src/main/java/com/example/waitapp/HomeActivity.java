@@ -30,5 +30,15 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(intToMain);
             }
         });
+
+        Button tableButton = findViewById(R.id.tableButton);
+
+        tableButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, TableActivity.class));
+            }
+        });
+
     }
 }
