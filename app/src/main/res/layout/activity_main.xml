@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/green"
     tools:context=".MainActivity">
 
     <TextView
@@ -65,7 +66,7 @@
         android:layout_marginEnd="175dp"
         android:layout_marginRight="175dp"
         android:layout_marginBottom="24dp"
-        android:text="Already have an account? Sign in here!"
+        android:text="Already Registered? Login Here!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.505"
@@ -82,6 +83,7 @@
         android:layout_marginTop="500dp"
         android:text="Register"
         app:layout_constraintStart_toStartOf="parent"
+        android:background="@drawable/buttondesign"
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
